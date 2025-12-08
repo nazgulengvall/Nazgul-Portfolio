@@ -26,6 +26,7 @@ Modern .NET minimal API architecture
 This project is part of my engineering portfolio for roles in software development, R&D, cloud, and distributed systems.
 
 🏗 Architecture Diagram
+pgsql
                    +----------------------+
                    |   Client / Postman   |
                    +----------+-----------+
@@ -80,6 +81,7 @@ Docker
 Containerized app for cloud deployment
 
 📂 Project Structure
+powershell
 dotnet-microservice-demo/
   README.md
   docs/
@@ -103,6 +105,7 @@ dotnet-microservice-demo/
       DevicesApiTests.cs
 
 🔌 Endpoints
+bash´
 GET    /api/devices
 GET    /api/devices/{id}
 POST   /api/devices
