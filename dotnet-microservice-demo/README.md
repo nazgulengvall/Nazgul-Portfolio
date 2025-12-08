@@ -1,6 +1,4 @@
-# Cloud-Ready Microservice API (.NET)
-🚧 Project structure will be added here.
-🌐 # Cloud-Ready Microservice API (.NET 8)
+# Cloud-Ready Microservice API (.NET 8)
 
 A clean, minimal and cloud-ready microservice demonstrating API design, EF Core, Docker, and good engineering practices.
 
