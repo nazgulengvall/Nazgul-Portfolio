@@ -57,7 +57,7 @@ app.MapPost("/devices", async (CreateDeviceRequest request, IDeviceRepository re
     {
         Name = request.Name.Trim(),
         Type = request.Type.Trim(),
-        CreatedAtUtc = DateTime.UtcNow
+        CreatedAt = DateTime.UtcNow
     };
 
     await repo.AddAsync(device);

@@ -6,5 +6,5 @@ public class Device
     public string Name { get; set; } = "";      // Ex: "Sensor A"
     public string Type { get; set; } = "";      // Ex: "Temperature"
     public string SerialNumber { get; set; } = "";
-    public DateTime CreatedAtUtc { get; set; } = DateTime.UtcNow;
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 }
